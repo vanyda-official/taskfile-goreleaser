@@ -1,0 +1,9 @@
+NAME=taskfile-goreleaser
+DISPLAY_NAME=Goreleaser Taskfile
+DESCRIPTION=Reusable Taskfile that provides common goreleaser features for various Golang projects.
+SOURCE=https://github.com/vanyda-official/taskfile-goreleaser
+
+GITHUB_OWNER=vanyda-official
+GITHUB_REPOSITORY=taskfile-goreleaser
+
+DOCKER_REGISTRY=ghcr.io/vanyda-official/taskfile-goreleaser
